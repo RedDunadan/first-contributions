@@ -106,13 +106,13 @@ Logo estará mesclando ('mergeando') as suas mudanças no _Branch_ principal (ma
 
 ## Para onde ir a partir daqui?
 
-Parabéns! Você completou o fluxo de trabalho básico _fork -> clone -> edit -> PR_ que você encontrará frequentemente como contribuidor!
+Parabéns! Você acabou de completar o fluxo de trabalho padrão de fork -> clone -> edição -> pull request que você frequentemente encontrará como um contribuidor!
 
-Celebre sua contribuição e compartilhe com seus amigos e seguidores no [app web](https://firstcontributions.github.io/#social-share).
+Celebre sua contribuição e compartilhe com seus amigos e seguidores acessando o aplicativo web.
 
-Você também pode se juntar à nossa equipe no _Slack_ caso precise de alguma ajuda ou tenha alguma dúvida. [Junte-se à nossa equipe no Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
+Se você quiser mais prática, confira as [contribuições de código](https://github.com/roshanjossey/code-contributions).
 
-Agora você pode colaborar com outros projetos. Nós compilamos uma lista de projetos com problemas simples que você pode começar. Verifique em [a lista de projetos no web app](https://firstcontributions.github.io/#project-list).
+Agora vamos começar a contribuir para outros projetos. Compilamos uma lista de projetos com problemas fáceis para você começar. Confira a lista de projetos no aplicativo web.
 
 ### [ Material adicional ](../additional-material/translations/Portugues/additional-material.pt_br.md)
 
